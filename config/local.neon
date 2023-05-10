@@ -1,0 +1,8 @@
+parameters:
+
+dibi:
+	host: localhost
+	username: root
+	password: root
+	database: web-skeleton
+	lazy: true

@@ -12,3 +12,6 @@ di:
 	export:
 		parameters: no
 		tags: no
+
+extensions:
+	dibi: Dibi\Bridges\Nette\DibiExtension22
