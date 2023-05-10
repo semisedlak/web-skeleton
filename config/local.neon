@@ -1,5 +1,13 @@
 parameters:
 
+console:
+	name: Web skeleton
+	version: '0.1.0'
+	catchExceptions: true
+	autoExit: true
+	url: https://example.com
+	lazy: true
+
 dibi:
 	host: localhost
 	username: root
